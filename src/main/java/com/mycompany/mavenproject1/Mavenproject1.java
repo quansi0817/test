@@ -6,7 +6,7 @@ package com.mycompany.mavenproject1;
 
 /**
  *
- * @author sichao
+ * @author sichao  @@@@@@@@@
  */
 public class Mavenproject1 {
 
